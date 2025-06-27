@@ -15844,4 +15844,4 @@
 74.48.179.37,36358,US,Cloudflare London LLC
 43.218.77.16,443,ID,Amazon Inc
 159.60.146.81,443,ID,Bangjdi v1
-159.60.146.82,443,ID Bangjdi v2
+159.60.146.82,443,ID,Bangjdi v2
