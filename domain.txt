@@ -1,0 +1,2 @@
+server1.vpnbangjdi.dpdns.org
+server2.vpnbangjdii.dpdns.org
