@@ -3,7 +3,7 @@ cache.netflix.com
 graph.instagram.com
 investor.fb.com
 investors.spotify.com
- live.iflix.com
+live.iflix.com
 quiz.int.vidio.com
 quiz.vidio.com
 quiz.staging.vidio.com
