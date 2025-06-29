@@ -2,3 +2,4 @@ server1.vpnbangjdi.dpdns.org
 server2.vpnbangjdii.dpdns.org
 server3.ilmu-pedia.eu.org
 servpn.my.id
+server4.masjdi.dpdns.org
